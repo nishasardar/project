@@ -1,0 +1,5 @@
+#files to be ignored
+.dsstore.html
+temp
+test/*.txt
+!test/master.txt
